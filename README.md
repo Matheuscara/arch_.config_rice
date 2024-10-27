@@ -1,5 +1,7 @@
 # Configurações do Arch Linux
 
+![Texto Alternativo](./pictures/1.png)
+
 Este repositório serve como um local para armazenar minhas configurações do Arch Linux.
 
 ## Objetivo
